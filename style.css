@@ -146,7 +146,7 @@ body{
     color: #CD9737;
 }
 .logo-alt{
-    color:#30220E;
+    color:var(--title-color);
     font-weight: 700;
     
 }
